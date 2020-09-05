@@ -10,7 +10,6 @@ fname: root
 stub: false
 parent: null
 children:
-  - b0fe6ef7-1553-4280-bc45-a71824c2ce36
   - e242db80-0342-4530-836c-9045e5da2d0c
   - 2c306887-b4c0-4e97-b2b1-87a7b17b1c06
 hpath: root
