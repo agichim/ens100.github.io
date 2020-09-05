@@ -1,0 +1,4 @@
+site:
+    siteHierarchies:
+        - root
+    siteRootDir: docs
