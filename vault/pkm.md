@@ -4,6 +4,7 @@ title: Personal Knowledge Management
 desc: ''
 updated: 1596206520799
 created: 1596206520799
+nav_order: 2
 ---
 
 # Personal Knowledge Management
