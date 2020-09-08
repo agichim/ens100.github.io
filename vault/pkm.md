@@ -1,6 +1,6 @@
 ---
 id: e242db80-0342-4530-836c-9045e5da2d0c
-title: Personal Knowledge Management
+title: Personal Knowledge
 desc: ''
 updated: 1596206520799
 created: 1596206520799
