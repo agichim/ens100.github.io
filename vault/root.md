@@ -12,7 +12,7 @@ Hello 👋 and welcome to my little corner of the word, my digital garden or sec
 
 The purpose of my digital garden is to try and go from a multitude of notes to the path of finding wisdom.
 
-![widsom](assets\images\wisdom.png)
+![wisdom](assets\images\wisdom.png)
 
 I set this up as part of my day to day life I come across a number of different topics which can somehow be interconnected. This led me to create a number of notes which were then safely stored in a structure of Folder -> subfolder -> subfolder -> note.
 
