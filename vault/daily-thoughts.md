@@ -22,11 +22,13 @@ In this area I summarise my daily thoughts and learnings. The purpose is to capt
 
 - A few days away from the office and I already feel like a new person, seems quite telling.
 
+- Watched up to half of Grey's Anatomy and enjoying it so far, event though it is a little gruesome at times.
+
 ---
 ### 2020-09-09
 
 - After having attempted to learn Clojure, I have decided to take a step back and try to learning something with more resources and "getting started" guides. 
-    - I will therefore be learning [[Python | pkm.python]] as my first language and once I feel comfortable, I will develop my [[Clojure | pkm.clojure]] learning.
+    - I will therefore be learning [[Python | python]] as my first language and once I feel comfortable, I will develop my [[Clojure | clojure]] learning.
 
 - With so many new tools out there it is very easy to be lead astray and keep procrastinating by continuously shifting between them, rather than using them for what they should be used...making life more productive and easier.
 

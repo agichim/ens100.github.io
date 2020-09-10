@@ -20,7 +20,9 @@ This process worked fine for a while but I would continuously struggle to find w
 
 I'm fascinated with the world around us and I intend to write about various things such as:
 
-- [[Personal Knowledge  | pkm]]
+- [[Python  | python]]
+- [[Clojure  | clojure]]
+- [[Oil & Gas  | oil&gas]]
 - [[Books | book-club]]
 - [[Travel | travel]]
 - [[Things I learn | today-i-learned]]

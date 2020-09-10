@@ -4,6 +4,7 @@ title: Indistractable
 desc: ''
 updated: 1599638926699
 created: 1599638926699
+nav_order: 5.1
 ---
 
 **Title**: Indistractable: How to Control Your Attention and Choose Your life  

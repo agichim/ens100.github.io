@@ -4,7 +4,7 @@ title: Today I Learned
 desc: ''
 updated: 1599378959490
 created: 1599378959490
-nav_order: 6
+nav_order: 7
 
 ---
 

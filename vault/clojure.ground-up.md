@@ -4,7 +4,7 @@ title: Clojure From the Ground Up
 desc: ''
 updated: 1599582696331
 created: 1599582696331
-nav_order: 3.3.3
+nav_order: 3.3
 ---
 
 # Clojure from the Ground Up

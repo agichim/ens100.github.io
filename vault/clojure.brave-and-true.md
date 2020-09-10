@@ -4,7 +4,7 @@ title: Clojure for the Brave and True
 desc: ''
 updated: 1599582880901
 created: 1599582880901
-nav_order: 3.3.4
+nav_order: 3.4
 ---
 
 # Clojure for the Brave and True
