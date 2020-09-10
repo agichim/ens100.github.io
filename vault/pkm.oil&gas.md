@@ -8,4 +8,4 @@ nav_order: 3.2
 ---
 
 
-![ICIS_Flowchart](assets\images\ICIS_Petrochemicals.jpg)
+![](/assets/images/2020-09-10-11-01-20.png)
