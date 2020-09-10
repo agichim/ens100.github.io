@@ -7,3 +7,22 @@ created: 1599586867158
 nav_order: 5
 ---
 
+# Travel 
+
+Travel and experiences are very personal. They mean different things to different people. To some, it’s a one week vacation to an all-inclusive hotel in the Caribbean. To others, it’s strapping on a backpack with no itinerary or end date.
+
+The world opened my eyes to possibilities and taught me that happiness is a state of mind. Travelling has given me the gift of confidence, clarity and optimism. It taught me to be patient and humble. It taught me to respect and appreciate the planet and the many different people and cultures that make it interesting and wonderful.
+
+Travel is my passion that has always played an important role in my life, especially as through travelling I met my soul mate. 
+
+![](/assets/images/2020-09-10-10-40-08.png)
+
+
+## Notable Trips
+
+- TBC
+- TBC
+- TBC
+- TBC
+- TBC
+

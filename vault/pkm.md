@@ -4,9 +4,9 @@ title: Personal Knowledge
 desc: ''
 updated: 1596206520799
 created: 1596206520799
-nav_order: 2
+nav_order: 3
 ---
 
-# Personal Knowledge Management
+# Personal Knowledge
 
-A collection of notes related to personal knowledge management (pkm). 
+A collection of notes related to my personal knowledge. 

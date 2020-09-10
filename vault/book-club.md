@@ -4,13 +4,22 @@ title: Book Club
 desc: ''
 updated: 1599379031056
 created: 1599379031056
-nav_order: 4
+nav_order: 4    
 ---
 
+# Book Club
 
-# Currently Reading:
+Having spent a number of years not opening or going close to a book, a few years ago, by chance, I picked up a book and struggled to put it down. It was literally a page turner.
 
-<img style="max-width: 500px;" src="https://images.unsplash.com/photo-1527554677374-236d3bc88a34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"/>  
+I have now found a passion for reading and found that a good book will transport you through time, allowing you to converse with the greatest minds that ever were. My aim is to read (and process / understand) 12 books per year.
+
+This patch of my digital garden will serve as the place where I review the books I have read. I try to read about a broad range of topics, so do not be surprised to find book reviews on business / finance, computer science, history, fiction and some self-help. 
+
+
+--- 
+## Currently Reading:
+
+<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1527554677374-236d3bc88a34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"/>  
 
 <sup><a href="https://unsplash.com/photos/NN3bYSPU2tQ" target="_blank">Image Source</a></sup>
 
@@ -18,17 +27,17 @@ nav_order: 4
 2. The Brethren - John Grisham
 
 
+--- 
+## Books Read:
 
-# Books Read:
 
-
-<img style="max-width: 500px;" src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"/> 
+<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"/> 
 
 <sup><a href="https://unsplash.com/photos/2JIvboGLeho" target="_blank">Image Source</a></sup>
 
 1. Shantaram- Gregory David Roberts - September 2013
 
-## 2017
+### 2017
 
 1. The Little Prince - April 2017
 3. Business Adventures - May 2017
@@ -58,7 +67,7 @@ nav_order: 4
 16. The Last Juror - John Grisham - October 2018
 17. The King of Torts - John Grisham - November 2018
 
-## 2019
+### 2019
 
 1. Intelligent Investor - Benjamin Graham - January 2019
 2. A Time to Kill - John Grisham - Februry 2019
@@ -78,7 +87,7 @@ nav_order: 4
 16. Unfuck Yourself - Gary Bishop - October 2019 
 17. Sycamore Row - John Grisham - November 2019
 
-## 2020
+### 2020
 
 1. [[Indistractable - Nir Eyal - January 2020  | book-club.indistractable]]
 2. Everything is Fucked - Mark Manson - January 2020 s
@@ -87,5 +96,5 @@ nav_order: 4
 5. The Infinite Game - Simon Sinek - March 2020
 6. How to Take Smart Notes - Sönke Ahrens
 
-
-# Books Want to Read: 
+--- 
+## Books I Want to Read: 

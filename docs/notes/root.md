@@ -11,7 +11,7 @@ stub: false
 parent: null
 children:
   - c992f0a7-674b-4114-9033-2ef3c1d45706
-  - 6000b39f-04b1-4c49-b75b-dfa603889aa0
+  - bab0e875-bb53-4385-8713-b319fcb424b7
   - e242db80-0342-4530-836c-9045e5da2d0c
   - d24ab8b5-f3c0-4f59-8eb6-a17339b85b16
   - b33e39c9-8443-41f7-94a6-9b34b046de55
@@ -34,9 +34,9 @@ I'm fascinated with the world around us and I intend to write about various thin
 
 - Personal Knowledge
 - Clojure
-- Books
-- Travel
-- Things I learn
+- [Books ](notes/c992f0a7-674b-4114-9033-2ef3c1d45706)
+- [Travel ](notes/b33e39c9-8443-41f7-94a6-9b34b046de55)
+- [Things I learn ](notes/d24ab8b5-f3c0-4f59-8eb6-a17339b85b16)
 - And a few others.
 
 I hope to be able to share some of the wisdom I have gained through the new and improved note taking process. 

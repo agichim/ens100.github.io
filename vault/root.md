@@ -20,11 +20,10 @@ This process worked fine for a while but I would continuously struggle to find w
 
 I'm fascinated with the world around us and I intend to write about various things such as:
 
-- Personal Knowledge
-- Clojure
-- Books
-- Travel
-- Things I learn
+- [[Personal Knowledge  | pkm]]
+- [[Books | book-club]]
+- [[Travel | travel]]
+- [[Things I learn | today-i-learned]]
 - And a few others.
 
 I hope to be able to share some of the wisdom I have gained through the new and improved note taking process. 
