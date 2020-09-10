@@ -10,3 +10,7 @@ nav_order: 3
 # Personal Knowledge
 
 A collection of notes related to my personal knowledge. 
+
+![](/assets/images/2020-09-10-18-15-02.png)
+
+text text text text 

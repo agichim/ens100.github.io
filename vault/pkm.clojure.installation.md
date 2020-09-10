@@ -4,7 +4,7 @@ title: Installation & New Project
 desc: ''
 updated: 1599236608573
 created: 1599236608573
-nav_order: .2
+nav_order: 3.3.2
 
 ---
 
