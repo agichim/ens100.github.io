@@ -1,0 +1,67 @@
+---
+id: c82fe208-9f3f-4dba-8c09-ed00ee62c683
+title: Installation & New Project
+desc: ''
+updated: 1599236608573
+created: 1599236608573
+nav_order: .2
+
+---
+
+# Clojure Installation and New Project
+
+So, the first step of any program is to install something, sounds easy right, man how wrong I was.  I have dabbled a little bit in Python so had a little bit of an idea of what to expect but I was not prepared mentally for what was coming up.
+
+From having to get singed up to Github and learn about what it is (optional) and learning about to downloading different JDK / J SE files,  to doing something with Leiningen and then something about some chocolate - I was all over the place and feeling a little overwhelmed with information overload. 
+
+Anyway, what I did was throw my computer out of the window....no, seriously, I closed all of my Chrome tabs and started one step at a time. 
+
+## Install
+
+Here are the steps I carried out:
+
+1. Download and install "Java SE Runtime Environment 8u251" from https://oraclemirror.np.gy/jre8/
+2. Run PowerShell and type "java -version" to see that it has installed and you have the latest versions
+3. Download IntelliJ from https://www.jetbrains.com/idea/download/#section=windows
+4. Download the Clojure installation from https://github.com/clojure/tools.deps.alpha/wiki/clj-on-Windows
+	- Once downloaded right click and select open with PowerShell, and let it run
+	- There may be a few prompts to which I selected Y or A
+5. Open terminal and type: "lein repl"
+
+and Voila!, following the above I was able to get Clojure up and running. 
+
+To celebrate, I typed "nil" and it returned `nil`. Great Success.
+
+## New Project
+
+To get a new project set up and running do the following:
+
+1. In PowerShell run "Lein new app name" (XXXX represents the name)
+2. cd name
+3. lein run
+	- Should show "hello world"
+
+Open Intellij
+1. Open Project - find Project.clj of project
+2. Open as project
+3. File -> New -> Clojure Namespace.
+4. Type in a new and click Clojure
+5. Add Configuration -> Leiningen
+6. Clojure REPL - Add configuration -> Clojure REPL -> local
+7. Press play
+8. To evaluate the function - Alt+Shift+P
+
+The Structure of a New Project is as follows:
+1. Project.clj - this is a configuration file so that the program can answer which dependencies does the project have
+2. src / folder / core.clj is the file where the source code will go for now.
+3. Test directory is simply for tests
+4. Resources is for assets like images  
+
+### Intellij Tips
+
+Discovered a few more tweaks / tips which I think are useful to know:
+- Alt-Shift-P - will evaluate the top-level form your cursor is on in the REPL
+- Alt-Shift-L - will load the file you are in, into the REPL
+- Alt-Shift-M - will load all modified files into your REPL
+- Alt-Shift-R - will change the REPL namespace to the one of the file you are in
+- File -> Settings -> Keymap and search for `Send form before caret to REPL` and add the keyboard shortcut Ctrl+Enter for it. That way, when your cursor (caret) is at the end of any s-expr and evaluate the s-expr into the REPL by pressing: Ctrl+Enter.
