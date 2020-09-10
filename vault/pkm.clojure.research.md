@@ -4,6 +4,7 @@ title: Research
 desc: ''
 updated: 1599236608573
 created: 1599236608573
+nav_order: 3.3.1
 ---
 
 # Clojure Research

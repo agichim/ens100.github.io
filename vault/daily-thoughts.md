@@ -30,4 +30,4 @@ In this area I summarise my daily thoughts and learnings. The purpose is to capt
 
 - With so many new tools out there it is very easy to be lead astray and keep procrastinating by continuously shifting between them, rather than using them for what they should be used...making life more productive and easier.
 
-- Rather than being in [[South Africa and Qatar | travel]]we are at home. Bummer, but with everything going on it is nice to be safe and sound and to be able explore areas closer to home.
+- Rather than being in [[South Africa and Qatar | travel]] we are at home. Bummer, but with everything going on it is nice to be safe and sound and to be able explore areas closer to home.
