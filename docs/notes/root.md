@@ -22,7 +22,7 @@ permalink: /
 ---
 # Welcome
 
-Hello 👋 and welcome to my little corner of the word, my digital garden or second brain, where I nurture, curate and craft my ideas in an online manner.
+Hello 👋 and welcome to my little corner of the world, my digital garden or second brain, where I nurture, curate and craft my ideas in an online manner.
 
 The purpose of my digital garden is to try and go from a multitude of notes to the path of finding wisdom.
 
