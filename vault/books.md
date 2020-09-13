@@ -1,10 +1,11 @@
 ---
 id: c992f0a7-674b-4114-9033-2ef3c1d45706
-title: Book Club
+title: Books
 desc: ''
 updated: 1599379031056
 created: 1599379031056
-nav_order: 5   
+stub: false
+nav_order: 5
 ---
 
 # Book Club
@@ -89,7 +90,7 @@ This patch of my digital garden will serve as the place where I review the books
 
 ### 2020
 
-1. [[Indistractable - Nir Eyal - January 2020  | book-club.indistractable]]
+1. [[Indistractable - Nir Eyal - January 2020  |books.indistractable]]
 2. Everything is Fucked - Mark Manson - January 2020 s
 3. Limitless Mind - Jo Boaler - February 2020 
 4. The Man who was Thursday - February 2020

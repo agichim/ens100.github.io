@@ -13,6 +13,20 @@ nav_order: 2
 In this area I summarise my daily thoughts and learnings. The purpose is to capture the key take-aways from each day in a bit of a summarised daily journal manner.
 
 ---
+### 2020-09-12
+
+- Saturday, beautiful sunshine and beautiful company. Does one need any more?
+
+- Been reading up a but on Python and the <a href="https://pyweek.org/" target="_blank">PY Week</a> which is coming up  
+    - Seems to be something quite cool to follow
+
+- Seem to have finally gotten the hang of GitHub with all its pushes, pulls, issues etc. Only took about a month
+
+- Managed to get my notes sorted in a cool manner with lots more to follow. Importing notes from different places is tough.
+
+![](/assets/images/2020-09-13-16-54-31.png)
+
+---
 ### 2020-09-10
 
 - With each day that passes <a href="https://www.dendron.so/" target="_blank">Dendron</a> becomes easier and easier to use and it has so many great features.

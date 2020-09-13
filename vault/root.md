@@ -23,7 +23,7 @@ I'm fascinated with the world around us and I intend to write about various thin
 - [[Python  | python]]
 - [[Clojure  | clojure]]
 - [[Oil & Gas  | oil&gas]]
-- [[Books | book-club]]
+- [[Books |books]]
 - [[Travel | travel]]
 - [[Things I learn | today-i-learned]]
 - And a few others.

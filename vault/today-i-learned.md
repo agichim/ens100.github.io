@@ -14,3 +14,5 @@ If you find it difficult, you are not alone. I have not done a good job at keepi
 
 I have therefore decided to add a `Today I Learned` page to keep track of these things!
 
+# 2020-09-13
+
