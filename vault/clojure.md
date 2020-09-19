@@ -4,7 +4,7 @@ title: Clojure
 desc: ''
 updated: 1599586812350
 created: 1599586812350
-nav_order: 3
+nav_order: 4
 ---
 
 ![](/assets/images/2020-09-10-14-48-29.png)

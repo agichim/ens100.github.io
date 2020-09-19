@@ -8,4 +8,4 @@ stub: false
 ---
 
 ## books
-[[authors.philippullman]
+[[authors.philippullman]]
