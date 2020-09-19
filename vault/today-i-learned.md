@@ -5,7 +5,6 @@ desc: ''
 updated: 1599378959490
 created: 1599378959490
 nav_order: 7
-
 ---
 
 With so many different things happening at once and information being available at the click of a button, How do we keep track of all the things we have learned?
