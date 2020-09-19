@@ -10,7 +10,6 @@ fname: root
 stub: false
 parent: null
 children:
-  - e08e5513-69e8-45f0-a2da-ec4d1255ec2f
   - c992f0a7-674b-4114-9033-2ef3c1d45706
   - 6000b39f-04b1-4c49-b75b-dfa603889aa0
   - 94a48961-dbe9-498b-b6e4-feb82b97c2e5

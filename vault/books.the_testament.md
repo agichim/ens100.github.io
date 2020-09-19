@@ -8,4 +8,3 @@ stub: false
 ---
 
 ## test
-[[authors.johngrisham]]
