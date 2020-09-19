@@ -1,0 +1,44 @@
+---
+id: 3cfa96f6-9a1f-4121-a1f1-970b0d01661a
+title: Limitless Mind Learn Lead Live Without Barriers
+desc: ''
+updated: 1600501943651
+created: 1600501943651
+stub: false
+---
+
+imitless Mind-learn-lead-live-without-barriers
+
+**Title:** Indistractable: How to Control Your Attention and Choose Your life  
+**Author:** Nir Eyal, Julie Li  
+**Link:** [Goodreads](https://www.goodreads.com/book/show/44595007-indistractable)  
+
+# Notes
+
+
+
+# Notes to sort
+
+Extracted Annotations (15/06/2020, 18:18:31)
+
+"our brains—and our lives—are highly adaptable, and that when people fully" (Boaler :6)
+
+"embrace this knowledge and change their approach to their lives and their learning, incredible outcomes result." (Boaler :7)
+
+"Anxiety in any subject area has a negative impact on the functioning of the brain. It is critical that we change the messages that are given to learners about their ability and rid education and homes of anxiety-inducing teaching practices." (Boaler :9)
+
+"We now know that ideas about limits to potential or intelligence are incorrect. Unfortunately, they are persistent and widespread in many cultures across the world. The good news is that when we challenge these beliefs, incredible results follow." (Boaler :9)
+
+"when you hit a barrier, it is advantageous to develop a new approach and come at the problem from a new perspective. Despite how logical this sounds, far too many of us fail to make adjustments in our thinking when we run into those barriers." (Boaler :11)
+
+""Everything you've ever wanted is on the other side of fear."" (Boaler :15)
+
+"brain is like a muscle that grows with effort and work, their levels of achievement change." (Boaler :59)
+
+"The first three learning keys, which address the value of understanding growth and challenge, are critical to unlocking learning potential. However, others can find these messages frustrating and counterproductive without the proper context for creative brain development." (Boaler :86)
+
+"Taking a multidimensional view of a problem, a topic, or the world in general unlocks our ability to learn and grow in vital ways." (Boaler :86)
+
+"Speed of thinking is not a measure of aptitude. Learning is optimized when we approach ideas, and life, with creativity and flexibility." (Boaler :87)
+
+"THE that help unlock the limitless power of our learning—and living— FIRST FIVE KEYS potential draw upon knowledge of these ideas: brain plasticity and growth the positive impact of challenges and mistakes on our brains beliefs and mindsets a multidimensional approach to content that increases brain connectivity flexible thinking" (Boaler :108)

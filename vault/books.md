@@ -24,7 +24,6 @@ This patch of my digital garden will serve as the place where I review the books
 
 <sup><a href="https://unsplash.com/photos/NN3bYSPU2tQ" target="_blank">Image Source</a></sup>
 
-1. How to Take Smart Notes - Sönke Ahrens
 2. The Brethren - John Grisham
 
 
