@@ -50,6 +50,7 @@ This patch of my digital garden will serve as the place where I review the books
 ---
 
 [[Test | books.The_Rainmaker]]
+[[books.The_Rainmaker]]
 
 [[Test | books.The_Rainmaker]] - text
 
