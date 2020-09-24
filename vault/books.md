@@ -39,62 +39,62 @@ This patch of my digital garden will serve as the place where I review the books
 
 ### 2017
 
-1. The Little Prince - April 2017
-3. Business Adventures - May 2017
-4. The Smartest Guys in the Room -  May 2017
-5. The Alchemist, Paulo Coelho -  June 2017
-6. The Servant, John Grisham - September 2017
-7. The Whistler, John Grisham - October 2017
-8. The Rainmaker, John Grisham - October 2017
+1. [[The Little Prince | books.The_Little_Prince]] - April 2017
+3. [[books.Business_Adventures]] - May 2017
+4. [[books.The_Smartest_Guys_in_the_Room]] -  May 2017
+5. [[books.The_Alchemist]], Paulo Coelho -  June 2017
+6. [[books.The_Servant]] - September 2017
+7. [[books.The_Whistler]] - October 2017
+8. [[books.The_Rainmaker]] - October 2017
 
 ## 2018
 
-1. The Litigators, John Grisham - January 2018
-2. Northern Lights, Philip Pullman - February 2018
-3. The Subtle Knife, Philip Pullman - March 2018
-4. The Amber Spyglass, Philip Pullman - March 2018
-5. The Ruby in the Smoke, Philip Pullman - March 2018
-6. Make Your Bed, William McRaven - April 2018
-7. The Partner, John Grisham - May 2018
-8. The Subtle Art of Not Giving a F*uk, Mark Manson - June 2018
-9. La Belle Sauvage, Phillip Pullman - July 2018
-10. The Rules of Life, Richard Templar - July 2018
-11. The Client, John Grisham - August 2018
-12. The Rules of Work, Richard Templar - August 2018
-13. The President is Missing, Bill Clinton and James Patterson - August 2018
-14. Along Came a Spider - James Patterson - September 2018
-15. Millionaire Success Habits - Dean Graziosi - September 2018
-16. The Last Juror - John Grisham - October 2018
-17. The King of Torts - John Grisham - November 2018
+1. [[books.The_Litigators]] - January 2018
+2. [[books.Northern_Lights]] - February 2018
+3. [[books.The_Subtle_Knife]]- March 2018
+4. [[books.The_Amber_Spyglass]]- March 2018
+5. [[books.The_Ruby_in_the_Smoke]]- March 2018
+6. [[books.Make_Your_Bed]], William McRaven - April 2018
+7. [[books.The_Partner]] - May 2018
+8. [[books.Subtle_Art_of_Not_Giving_a_Fuck]] Mark Manson - June 2018
+9. [[books.La_Belle_Sauvage]] - July 2018
+10. [[books.The_Rules_of_Life]], Richard Templar - July 2018
+11. [[books.The_Client]] - August 2018
+12. [[books.The_Rules_of_Work]], Richard Templar - August 2018
+13. [[books.The_President_is_Missing]], Bill Clinton and James Patterson - August 2018
+14. [[books.Along_Came_a_Spider]] - James Patterson - September 2018
+15. [[books.Millionaire_Success_Habits]] - Dean Graziosi - September 2018
+16. [[books.The_Last_Juror]] - October 2018
+17. [[books.The_King_of_Torts]] - November 2018
 
 ### 2019
 
-1. Intelligent Investor - Benjamin Graham - January 2019
-2. A Time to Kill - John Grisham - Februry 2019
-3. The Street Lawyer - John Grisham - March 2019
-4. The Pelican Brief - John Grisham - April 2019
-5. Stress Less, Accomplish More - Emily Fletcher - April 2019
-6. Como Enlouquecer um Homem - Braulio Tavares - April 2019
-7. Midnight in Chernobyl - Adam Higginbotham - April 2019
-8. Live Your Truth - Kamal Ravikant - May 2019
-9. The Runaway Jury - John Grisham - May 2019
-10. Animal Farm - George Orwell - June 2019
-11. 1984 - George Orwell - July 2019
-12. Fahrenheit 451 - Ray Bradbury - July 2019
-13. The Testament - John Grisham - August 2019
-14. The Chamber - John Grisham - September 2019
-15. Playing the Matrix - Mike Dooley - September 2019
-16. Unfuck Yourself - Gary Bishop - October 2019 
-17. Sycamore Row - John Grisham - November 2019
+1. [[books.Intelligent_Investor]] - Benjamin Graham - January 2019
+2. [[books.A_Time_to_Kill]] - Februry 2019
+3. [[books.The_Street_Lawyer]] - March 2019
+4. [[books.The_Pelican_Brief]] - April 2019
+5. [[books.Stress_Less_Accomplish_More]] - Emily Fletcher - April 2019
+6. [[books.Como_Enlouquecer_um_Homem]] - Braulio Tavares - April 2019
+7. [[books.Midnight_in_Chernobyl]] - Adam Higginbotham - April 2019
+8. [[books.Live Your_Truth]] - Kamal Ravikant - May 2019
+9. [[books.The_Runaway_Jury]] - May 2019
+10. [[books.Animal_Farm]] - George Orwell - June 2019
+11. [[books.1984]] - George Orwell - July 2019
+12. [[books.Fahrenheit_451]] - Ray Bradbury - July 2019
+13. [[books.The_Testament]] - August 2019
+14. [[books.The_Chamber]] - September 2019
+15. [[books.Playing_the_Matrix]] -Mike Dooley - September 2019
+16. [[books.Unfuck_Yourself]] Gary Bishop - October 2019
+17. [[books.Sycamore_Row]] - November 2019
 
 ### 2020
 
-1. [[Indistractable - Nir Eyal - January 2020  |books.indistractable]]
-2. Everything is Fucked - Mark Manson - January 2020 s
-3. Limitless Mind - Jo Boaler - February 2020 
-4. The Man who was Thursday - February 2020
-5. The Infinite Game - Simon Sinek - March 2020
-6. How to Take Smart Notes - Sönke Ahrens
+1. [[Indistractable - Nir Eyal - January 2020  | books.indistractable]]
+2. [[books.Everything_is_Fucked]] - January 2020
+3. [[books.limitless_mind]] - February 2020
+4. [[books.The_Man_who_was_Thursday]] - February 2020
+5. [[books.The_Infinite_Game]] - Simon Sinek - March 2020
+6. [[books.How_to_Take_Smart_Notes]] - Sönke Ahrens - September 2020
 
 --- 
 ## Books I Want to Read: 
