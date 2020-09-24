@@ -14,7 +14,7 @@ children:
   - c992f0a7-674b-4114-9033-2ef3c1d45706
   - 6000b39f-04b1-4c49-b75b-dfa603889aa0
   - 94a48961-dbe9-498b-b6e4-feb82b97c2e5
-  - 9cabe777-4b21-4b94-be7b-0cd9a3f3de73
+  - 24533b1b-7b2f-4448-ab38-beff5fd77288
   - bab0e875-bb53-4385-8713-b319fcb424b7
   - d24ab8b5-f3c0-4f59-8eb6-a17339b85b16
   - b33e39c9-8443-41f7-94a6-9b34b046de55
@@ -35,7 +35,7 @@ This process worked fine for a while but I would continuously struggle to find w
 
 I'm fascinated with the world around us and I intend to write about various things such as:
 
-- [Python  ](notes/9cabe777-4b21-4b94-be7b-0cd9a3f3de73)
+- [Python  ](notes/24533b1b-7b2f-4448-ab38-beff5fd77288)
 - [Clojure  ](notes/6000b39f-04b1-4c49-b75b-dfa603889aa0)
 - [Oil & Gas  ](notes/94a48961-dbe9-498b-b6e4-feb82b97c2e5)
 - [Books ](notes/c992f0a7-674b-4114-9033-2ef3c1d45706)

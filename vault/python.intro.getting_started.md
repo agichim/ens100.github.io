@@ -10,7 +10,7 @@ nav_order: 2.1
 
 # Getting started
 
-In Python there are literals such as "Hello" - this simply tell Python not to interpret anything but should just take it as it _literally_ is.
+In Python there are literals such as "Hello" - this simply tells Python not to interpret anything but should just take it as it _literally_ is.
 
 To add comments to code we use the # - this renders that line as moot. 
 
@@ -20,9 +20,8 @@ There are the following type of Data Types:
 
 Use `type()` to find out
 
-|----|----|----|----|
-|----|----|----|----|
 Data Type |	Abbreviation | Explanation
+|----|----|----|----|
 boolean |bool |	A True or False value.| 1==1
 integer |int |	A whole number. | 3
 float	| float	| A decimal. | 3.1

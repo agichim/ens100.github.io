@@ -1,0 +1,17 @@
+- id: python
+  desc: projects
+  parent: root
+  children:
+    - intro
+    - code
+    - projects
+- id: intro
+  desc: introduction to python and learning
+  namespace: true
+- id: code
+  desc: code snippets and examples
+  namespace: true
+- id: projects
+  desc: projects I want to learn
+  namespace: true
+  
