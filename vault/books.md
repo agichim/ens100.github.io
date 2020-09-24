@@ -27,20 +27,11 @@ This patch of my digital garden will serve as the place where I review the books
 --- 
 ## Currently Reading:
 
-<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1527554677374-236d3bc88a34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"/>  
-
-<sup><a href="https://unsplash.com/photos/NN3bYSPU2tQ" target="_blank">Image Source</a></sup>
-
 2. The Brethren - John Grisham
 
 
 --- 
 ## Books Read:
-
-
-<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"/> 
-
-<sup><a href="https://unsplash.com/photos/2JIvboGLeho" target="_blank">Image Source</a></sup>
 
 1. Shantaram- Gregory David Roberts - September 2013
 
@@ -54,15 +45,6 @@ This patch of my digital garden will serve as the place where I review the books
 7. [[books.The_Whistler]] - October 2017
 8. [[books.the_rainmaker]] - October 2017
 
----
-
-[[Test | books.the_rainmaker]]
-
-[[books.the_rainmaker]]
-
-[[Test | books.The_Rainmaker]] - text
-
----
 
 ### 2018
 
