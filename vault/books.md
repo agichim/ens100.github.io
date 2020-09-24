@@ -45,12 +45,13 @@ This patch of my digital garden will serve as the place where I review the books
 5. [[books.The_Alchemist]], Paulo Coelho -  June 2017
 6. [[books.The_Servant]] - September 2017
 7. [[books.The_Whistler]] - October 2017
-8. [[books.The_Rainmaker]] - October 2017
+8. [[books.the_rainmaker]] - October 2017
 
 ---
 
-[[Test | books.The_Rainmaker]]
-[[books.The_Rainmaker]]
+[[Test | books.the_rainmaker]]
+
+[[books.the_rainmaker]]
 
 [[Test | books.The_Rainmaker]] - text
 
