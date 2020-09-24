@@ -16,7 +16,7 @@ I have now found a passion for reading and found that a good book will transport
 
 This patch of my digital garden will serve as the place where I review the books I have read. I try to read about a broad range of topics, so do not be surprised to find book reviews on business / finance, computer science, history, fiction and some self-help. 
 
-[[books.the_rainmaker]] - October 2017
+[[books.the_rainmaker]]
 
 [[books.the_rainmaker]] - October 2017
 
