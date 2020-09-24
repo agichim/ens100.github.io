@@ -47,7 +47,8 @@ This patch of my digital garden will serve as the place where I review the books
 7. [[books.The_Whistler]] - October 2017
 8. [[books.The_Rainmaker]] - October 2017
 
-[[books.The_Rainmaker]] - October 2017
+[[books.The_Rainmaker]]
+October 2017
 
 ### 2018
 
