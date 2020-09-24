@@ -17,8 +17,12 @@ There are my notes on learning Python. I learned the basis of Python a few years
 Who knows, maybe one day I will return to [[Clojure | clojure]]
 
 [[Research | python.intro.research]]
+
 [[Getting Started |python.intro.getting_started]]
+
 [[Functions and Modules | python.intro.functions_modules]]
+
 [[Maths | python.intro.maths]]
+
 
 
