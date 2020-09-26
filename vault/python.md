@@ -5,7 +5,7 @@ desc: ''
 updated: 1599673153921
 created: 1599673153921
 stub: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Python
@@ -20,5 +20,6 @@ Who knows, maybe one day I will return to [[Clojure | clojure]]
 [[Getting Started |python.intro.getting_started]]
 [[Functions and Modules | python.intro.functions_modules]]
 [[Maths | python.intro.maths]]
+[[Strings | python.intro.strings]]
 
 
