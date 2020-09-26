@@ -12,14 +12,14 @@ stub: false
 ![https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923281l/5354.jpg](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923281l/5354.jpg)
 
 
-**Title:** The Brethren
-**Author:** [[John Grisham | authors.johngrisham]]
-**Link:** [Goodreads](https://www.goodreads.com/book/show/5354.The_Brethren)  
+- **Title:** The Brethren
+- **Author:** [[John Grisham | authors.johngrisham]]
+- **Link:** [Goodreads](https://www.goodreads.com/book/show/5354.The_Brethren)  
 
 ---
 
-_Start:_ 12-Sep-2020
-_End_: 26-Sep-2020
+- _Start:_ 12-Sep-2020
+- _End_: 26-Sep-2020
 
 ---
 
