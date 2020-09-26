@@ -14,6 +14,16 @@ In this area I summarise my thoughts and learnings. The purpose is to capture th
 
 ---
 
+### 2020-09-26
+
+- Finished [[The Brethren | books.the_brethren]] this morning and will now move onto [[The War of Art | books.the_war_of_art]]. Only a few more books to go to meet my goal of 12 books minimum per year. 
+
+- Did a little more on [[python]] and think I am getting the hang of it. Was able to do a ask the user for a phrase, print the phrase, ask the user for a number to return the character from that position. My answer was somewhat different to that of the course but it still worked. Also managed to amend it so that it would return a substring. Quite pleased with my progress.
+
+- I do like reading online about people "missing" the office and seeing colleagues now that it has been 6 months of lockdown, only for them to then bitch about them. Interesting. 
+
+- Feel like my mind is shifting from an analog note taking to a digital one where the things I type are starting to stick.
+
 ### 2020-09-18
 
 - Intense week at work. It feels as if when you take some vacation you then need to work triple to make up for the time you were away rendering any vacation moot. 
