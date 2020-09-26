@@ -10,6 +10,10 @@ nav_order: 4
 
 # Books
 
+<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1527554677374-236d3bc88a34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"/>  
+
+<sup><a href="https://unsplash.com/photos/NN3bYSPU2tQ" target="_blank">Image Source</a></sup>
+
 Having spent a number of years not opening or going close to a book, a few years ago, by chance, I picked up a book and struggled to put it down. It was literally a page turner.
 
 I have now found a passion for reading and found that a good book will transport you through time, allowing you to converse with the greatest minds that ever were. My aim is to read (and process / understand) 12 books per year.
@@ -20,21 +24,12 @@ This patch of my digital garden will serve as the place where I review the books
 --- 
 ## Currently Reading:
 
-<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1527554677374-236d3bc88a34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"/>  
-
-<sup><a href="https://unsplash.com/photos/NN3bYSPU2tQ" target="_blank">Image Source</a></sup>
-
 1. The War of Art - Steven Pressfield
 2. Digital Minimalism - Cal Newport
 
 
 --- 
 ## Books Read:
-
-
-<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"/> 
-
-<sup><a href="https://unsplash.com/photos/2JIvboGLeho" target="_blank">Image Source</a></sup>
 
 1. Shantaram- Gregory David Roberts - September 2013
 
@@ -77,7 +72,7 @@ This patch of my digital garden will serve as the place where I review the books
 5. [[books.Stress_Less_Accomplish_More]] - Emily Fletcher - April 2019
 6. [[books.Como_Enlouquecer_um_Homem]] - Braulio Tavares - April 2019
 7. [[books.Midnight_in_Chernobyl]] - Adam Higginbotham - April 2019
-8. [[books.Live Your_Truth]] - Kamal Ravikant - May 2019
+8. [[books.Live_Your_Truth]] - Kamal Ravikant - May 2019
 9. [[books.The_Runaway_Jury]] - John Grisham - May 2019
 10. [[books.Animal_Farm]] - George Orwell - June 2019
 11. [[books.1984]] - George Orwell - July 2019
@@ -98,7 +93,14 @@ This patch of my digital garden will serve as the place where I review the books
 6. [[books.How_to_Take_Smart_Notes]] - Sönke Ahrens - September 2020
 7. [[books.the_brethren]] - John Grisham - September 2020
 
+
+
+<img style="max-width: 400px;" src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"/> 
+
+<sup><a href="https://unsplash.com/photos/2JIvboGLeho" target="_blank">Image Source</a></sup>
+
 --- 
+
 ## Books I Want to Read: 
 
 - The shallows - Nicholas Carr

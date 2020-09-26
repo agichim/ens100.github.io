@@ -1,11 +1,12 @@
 ---
-id: a2822031-455d-4a06-8013-ec74563c0330
-title: Everything is Fucked
+id: 99c62cf3-5c36-4402-ade4-207725d3635c
+title: Everything is fucked
 desc: ''
-updated: 1600501943650
-created: 1600501943650
-stub: false
+updated: 1601117266442
+created: 1601117266442
 ---
+# Everything is fucked
+
 # books.Everything is Fucked
 
 Title: Everything is Fucked: A Book About Hope
