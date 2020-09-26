@@ -5,7 +5,7 @@ desc: ''
 updated: 1599673153921
 created: 1599673153921
 stub: false
-nav_order: 3
+nav_order: 2
 ---
 
 # Python
@@ -17,12 +17,8 @@ There are my notes on learning Python. I learned the basis of Python a few years
 Who knows, maybe one day I will return to [[Clojure | clojure]]
 
 [[Research | python.intro.research]]
-
 [[Getting Started |python.intro.getting_started]]
-
 [[Functions and Modules | python.intro.functions_modules]]
-
 [[Maths | python.intro.maths]]
-
 
 
